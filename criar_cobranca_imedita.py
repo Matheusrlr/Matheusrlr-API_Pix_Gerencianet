@@ -21,7 +21,7 @@ payload = {
 "valor": {
   "original": "0.01"
   },
-"chave": "matheus.rodrigues@gerencianet.com.br",
+"chave": "",
 "solicitacaoPagador": "Cobrança dos serviços prestados."}
 
 
